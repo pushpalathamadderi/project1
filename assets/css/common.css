@@ -1,0 +1,202 @@
+.salaryheading{
+    font-family:Cambria;
+    font-size:14px;
+    text-align:center;
+    border:1px solid #000000;
+}
+.salaryheading1{
+    border:1px solid #000000;
+}
+.all
+{
+    font-family:Cambria; 
+    font-size:14px; 
+    border-bottom:1px solid #E2E2E2; 
+    border:1px solid #000000;
+}
+.all1
+{
+    font-family:Cambria;
+    text-align:right; font-size:14px; 
+    border-bottom:1px solid #E2E2E2; 
+    border:1px solid #000000;
+}
+.all2{
+    font-family:Cambria; 
+    text-align:right; 
+    font-size:14px;
+    border-bottom:1px solid #E2E2E2;
+    border-right:1px solid #E2E2E2; 
+    border:1px solid #000000;
+}
+.salarydata{
+    border-bottom:1px solid #E2E2E2;
+    border-bottom-style:none; 
+    font-family:Cambria;
+    font-size:14px; 
+    border:1px solid #000000
+}
+.basicall{
+    border-bottom-style:none;
+    border:1px solid #000000; 
+}
+.basicall1{
+    font-family:Cambria;
+    font-size:14px; 
+    border-bottom-style:none;
+    border:1px solid #000000;
+    text-align:right;
+}
+.salaryhead{
+    font-family:Cambria; 
+    font-size:14px;
+    border:1px solid #ccc; 
+    width:260px;
+}
+.salaryspace{
+    border-right:1px solid #E2E2E2;
+    font-family:Cambria; 
+    text-align:right; 
+    font-size:14px;
+    border:1px solid #000000;
+}
+.basic{
+    font-family:Cambria; 
+    font-size:14px; 
+    border:1px solid #000000;
+    text-align: center;
+}
+.salaryall{
+    border-bottom-style:none; 
+    font-family:Cambria; 
+    text-align:right; 
+    font-size:14px; 
+    border:1px solid #000000;
+}
+.variable{
+    font-family:Cambria; 
+    font-size:14px; 
+    border-bottom-style:none;
+    border:1px solid #000000;
+    text-align:right;
+}
+.aa
+{
+    font-family:Cambria;
+    text-align:right;
+    font-size:14px;
+    border:1px solid #000000;
+}
+.aa1{
+    font-family:Cambria;
+    text-align:right; 
+    font-size:14px; 
+    border-right:1px solid #E2E2E2;
+    border:1px solid #000000;
+}
+.pe{
+    border-bottom-style:none; border:1px solid #000000;text-align:right;
+}
+.table2
+{
+    text-align:center; 
+    font-weight:bold;
+    border:1px solid #212121;
+    font-size:14px; 
+    font-family:Cambria
+}
+.table2data
+{
+    border:1px solid #212121;
+    font-size:14px; font-family:Cambria
+}
+.wizard.vertical > .steps {
+    display: inline;
+    float: left;
+    width: 20%;
+}
+.wizard.vertical > .content 
+{
+    display: inline;
+    float: left;
+    width: 80%;
+    margin: 0px;
+    padding: 0px;
+}
+.wizard > .content > .body label {
+    display: inline-block;
+    margin-top: 0px; 
+}
+.wizard > .content > .body {
+    width:100% !important;
+}
+.preview{
+    font-weight: normal;
+}
+
+.common{
+    font-family:Cambria; 
+    font-size:14px;
+}
+#total1{
+    border-right:1px solid #E2E2E2;
+    border:1px solid #000000;
+}
+#total{
+    border:1px solid #000000;
+}
+
+.cdr_salary_view .last
+{
+    font-family:Cambria; 
+    font-size:14px; 
+    border-bottom:1px solid #E2E2E2; 
+    border:1px solid #000000;
+}
+#salaryview
+{
+    width: 70%;
+}
+.vp{
+    font-family:Cambria;
+    font-size:14px; 
+    border:1px solid #000000;
+}
+.other
+{ 
+    border-bottom-style:none; 
+    border:1px solid #000000;
+    text-align:right;
+}
+.total{
+    font-family:Cambria;
+    text-align:right;
+    font-size:14px;
+    border-bottom:1px solid #E2E2E2;
+}
+#common{
+    text-align: left;
+    border:1px solid #000000;
+}
+.vp1
+{
+    font-family:Cambria; 
+    font-size:14px;
+    border-bottom-style:none;
+    border:1px solid #000000;
+    text-align:right;
+}
+
+/*.content-page {
+    margin-left: 260px !important;
+    overflow: hidden !important;
+}
+body.fixed-left .side-menu.left {
+    bottom: 50px !important;
+    height: 100% !important;
+    margin-bottom: -70px !important;
+    margin-top: 0;
+    padding-bottom: 70px !important;
+    position: fixed !important;
+    width: 274px !important;
+}*/
